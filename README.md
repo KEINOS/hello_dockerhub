@@ -1,2 +1,3 @@
-# hello_dockerhub
-Test repo of Docker Hub's automated build and see if "AUTOMATED" becomes "[OK]" on `docker search`.
+# AUTOMED BUILD TEST
+
+This repository is to test whether the automated build of DockerHub shows "[OK]" at "AUTOMATED" in `docker search` results.
